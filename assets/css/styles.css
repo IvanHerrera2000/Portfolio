@@ -342,6 +342,18 @@ img {
   font-weight: bold;
   height: 100%;
 }
+#card__four {
+  background-image: url("../img/WEBSITE-REACT.gif");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.card4 {
+  background-color: #ed6991;
+  background-size: 50% 50%;
+  color: #fff;
+  font-weight: bold;
+  height: 100%;
+}
 .container__card {
   position: relative;
   display: flex;
